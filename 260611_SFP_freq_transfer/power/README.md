@@ -11,4 +11,4 @@ gunzip *tim
 octave plot_tim.m
 ```
 
-<a href="power_dependence.png">
+<img src="power_dependence.png">
