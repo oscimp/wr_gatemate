@@ -11,4 +11,6 @@ gunzip *tim
 octave plot_tim.m
 ```
 
+## Purple SFP output, blue SFP input:
+
 <img src="power_dependence.png">
