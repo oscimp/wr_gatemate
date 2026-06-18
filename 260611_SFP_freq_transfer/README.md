@@ -21,3 +21,6 @@ noweight = 8.9826e-13
 withweight = 6.3518e-13
 ```
 so a contribution in the 0.6 to 2 ps range.
+
+All measurements performed at 100 MHz as a tradeoff between operating frequency
+range of the SFPs (above 50 MHz) and the Phase Station (below 200 MHz).
