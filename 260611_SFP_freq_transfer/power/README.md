@@ -5,6 +5,8 @@ receiving SFP output connected to phase station.
 
 Direct reference and output to the Phase Station (no mixer), DUT=DUT, REF=REF
 
+Red = Axcen ; Blue = FS
+
 Execute
 ```
 gunzip *tim

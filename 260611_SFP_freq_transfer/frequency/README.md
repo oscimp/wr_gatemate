@@ -5,7 +5,9 @@ receiving SFP output connected to phase station after mixing with
 a second SMA100A set to the frequency -100 MHz and an output power
 of 10 dBm to saturate the mixer at 7 dBm after the splitter.
 
-Direct reference and output to the Phase Station (no mixer), DUT=REF, REF=DUT
+Mixed reference and mixed output to the Phase Station, DUT=REF, REF=DUT
+
+Red = Axcen ; Blue = FS
 
 Execute
 ```
