@@ -13,6 +13,9 @@ gunzip *tim
 octave plot_tim.m
 ```
 
-## Blue SFP output, purple SFP input:
+## Purple Axcen SFP output, blue FS SFP input:
 
-<img src="frequency_dependence_blueTX_redRX.png">
+Same brand (Axcen), two different SFPs exhibitig different phase noise characteristics
+under the same measurement conditions:
+
+<img src="brand_same.png">
